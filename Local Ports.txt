@@ -1,0 +1,11 @@
+WIFI: http://10.0.0.170:50443
+
+LocalHost:
+http://localhost:50443
+
+HTTP Port: 
+ 8080
+
+
+RMI Port:
+8005
